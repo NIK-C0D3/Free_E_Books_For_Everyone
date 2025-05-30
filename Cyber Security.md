@@ -4,4 +4,3 @@
 - [Managing a Network Vulnerability Assessment by Thomas R. Peltier](https://api.pageplace.de/preview/DT0400.9780203503041_A23557665/preview-9780203503041_A23557665.pdf)
 - [Vulnerability Assessment of Physical Protection Systems by Mary Lynn Garcia](https://api.pageplace.de/preview/DT0400.9780080481678_A23516963/preview-9780080481678_A23516963.pdf)
 - [Vulnerability Assessments: Best Practices Guide by NopSec](https://f.hubspotusercontent30.net/hubfs/20334580/Content/Whitepapers%20and%20eBooks/2016/Best%20Practices%20Guide%20Vulnerability%20Assessments.pdf)
-- 
